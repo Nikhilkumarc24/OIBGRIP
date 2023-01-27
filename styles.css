@@ -1,0 +1,33 @@
+table {
+   margin-left: auto;
+   margin-right: auto;
+   padding: 20px;
+   background-color: white;
+   height: 400;
+   width: 450;
+   
+}
+input[type="button"] {
+    width: 80%;
+    padding: 50px 80px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    border: none;
+    border-radius: 115px;
+}
+input[type="text"] {
+    padding: 90px 100px;
+    font-size: 60px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid brown;
+    color: black;
+    background-color: white;
+}
+body{
+
+    background-image: url("WhatsApp Image 2023-01-27 at 21.21.11.jpeg");
+}
